@@ -42,6 +42,7 @@ const ContactSection = () => {
 }
 const Left = styled(Top)`
     flex: 1;
+    height: 100vh;
 `;
 const Form = styled.form`
     flex: 2;
